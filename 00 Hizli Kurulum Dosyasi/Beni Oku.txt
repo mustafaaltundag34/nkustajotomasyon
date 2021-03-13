@@ -1,0 +1,29 @@
+NKU Staj Otomasyon Sistemi Icin yapilmasi gerekenler 
+------------------------------------------------------
+1- Sisteme XAMPP Uygulamasi kurulur 
+
+	Asýl Link	: https://www.apachefriends.org/xampp-files/7.3.27/xampp-windows-x64-7.3.27-0-VC15-installer.exe
+
+2- XAMPP Uygulamasi calistirilir ve Apache ile MYSQL 3306 Portlari Start Edilir 
+
+3- Phpmyadmin üzerinden Stajdb adinda bir veritabani olusturulur ve Stajdb.sql dosyasi import edilir 
+
+	Asýl Link	: https://drive.google.com/file/d/1HRyjN2ykLCn4y_SwmFPH6QOv8_YsvyVt/view?usp=sharing
+
+
+4- Repository üzerindeki Nkustajotomasyon klasoru c:/XAMPP/Htdocs/ klasoru altýna kopyalanir 
+
+	Asýl Link 	: https://drive.google.com/file/d/1tpVH2QeQys35UZ_fagf9xLlV72Uc78HK/view?usp=sharing
+	Alternatif Link	: https://github.com/mustafaaltundag34/nkustajotomasyon
+
+5- Browser üzerinden localhost/nkustajotomasyon linkine gidilir 
+
+6- Default Kullanici Adi: admin Sifre: admin ile login olunur
+
+Mustafa ALTUNDAÐ
+NKU Çorlu Bilgisayar Mühendisliði Fakültesi
+1170606901
+14.03.2021
+
+Staj 2 Projesi
+2021
